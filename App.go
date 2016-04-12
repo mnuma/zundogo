@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	z := "ズン"
+	z := "ズン1"
 	d := "ドコ"
 	zd := []string{z, d}
 	zundoko := []string{z, z, z, z, d}
