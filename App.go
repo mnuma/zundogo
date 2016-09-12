@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	z := "ズン1"
+	z := "ズン"
 	d := "ドコ"
 	zd := []string{z, d}
 	zundoko := []string{z, z, z, z, d}
@@ -36,3 +36,4 @@ func main() {
 	}()
 	fmt.Println("キ・ヨ・シ!")
 }
+
